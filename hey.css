@@ -1,0 +1,77 @@
+h2
+{
+	
+	text-align: center;
+}
+h1
+{
+	text-align: center;
+	color: #fff;
+}
+body
+{
+	background:url(http://www.rambina.com/wp-content/uploads/2016/05/website-design-background-1.jpg);
+	background-size: 400%;
+	background-repeat: no-repeat;
+	background-color: black;
+}
+p
+{
+	font-size: 30px;
+	padding-top: 20px;
+	color:#3498db;
+	font-family: georgia;
+}
+
+#special
+{
+	color:#3498db;
+	padding-top: 1px;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding-bottom: 50px;
+	text-align: center;
+	font-family: georgia;
+	font-size: 30px;
+
+}
+
+#hi
+{
+	text-align: center;
+	color: rgb(224,224,224);
+}
+#h
+{
+	font-size: 40px;
+	text-align: left;
+	color:rgb(224,224,224);
+}
+#g
+{
+	padding-top: 20px;
+	font-family: georgia;
+
+}
+#j
+{
+	font-size: 40px;
+	text-align: left;
+	color:rgb(224,224,224);
+}
+#PO
+{
+	color:#3498db;;
+}
+#hu
+{
+	text-align: center;
+	padding-top: 5px;
+
+}
+nav
+{
+	font-size: 20px;
+	margin-bottom: 40px;
+	font-family: georgia;
+}
